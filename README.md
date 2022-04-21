@@ -1,2 +1,3 @@
 # Guess_the_number
-guessing game built using python.
+A guessing game built using python.
+use command 'python main.py' or 'python3 main.py' to run
